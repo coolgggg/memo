@@ -1,0 +1,2 @@
+# memo
+memorandum，learning backup
